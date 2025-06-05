@@ -1,0 +1,6 @@
+**/__pycache__/**
+.env
+neo4j/*
+data/*
+test-convos.json
+.idea

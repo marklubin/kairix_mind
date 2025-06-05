@@ -1,0 +1,883 @@
+2025-06-05 13:33:14,951 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-05 13:33:14,956 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-06-05 13:33:15,177 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-05 13:35:01,084 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-05 13:35:01,089 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-06-05 13:35:01,314 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-05 13:35:10,031 - kairix.ui.functions - INFO - Loading /Users/mark/kairix_mind/test-convos.json
+2025-06-05 13:35:10,052 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:35:10,052 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:35:10,052 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:35:10,052 - kairix.ui.functions - INFO - 
+Message: bbb23582-99b4-4fe7-92f2-b77aee606afd
+2025-06-05 13:35:10,052 - kairix.ui.functions - INFO - 
+Message: ba7ef61c-9956-44c0-8f6f-9e8dac45d973
+2025-06-05 13:35:10,090 - kairix.ui.functions - INFO - 
+Message: 139c7038-f68a-4e57-b412-fc6ee0f86f4f
+2025-06-05 13:35:10,090 - kairix.ui.functions - INFO - 
+Message: bbb2168d-60eb-4ee0-83d7-04957c14a3ab
+2025-06-05 13:35:10,098 - kairix.ui.functions - INFO - 
+Message: 1e90d24e-a42c-4a58-8215-a261f4191bb5
+2025-06-05 13:35:10,106 - kairix.ui.functions - INFO - 
+Message: 9f049a72-a3e6-4f11-8bf4-0a96aee59e13
+2025-06-05 13:35:10,148 - kairix.ui.functions - INFO - 
+Message: bbb21843-7353-4910-a1fa-ca0b275d05c7
+2025-06-05 13:35:10,155 - kairix.ui.functions - INFO - 
+Message: 9943413f-44cf-483e-b549-18770e8d1a73
+2025-06-05 13:35:10,162 - kairix.ui.functions - INFO - 
+Message: bbb216d2-0108-4c17-aaf3-52f1e5d662ac
+2025-06-05 13:35:10,168 - kairix.ui.functions - INFO - 
+Message: 897f0a27-2757-4026-ad4c-2015b0cd0db1
+2025-06-05 13:35:10,174 - kairix.ui.functions - INFO - 
+Message: bbb21121-e403-4594-82ba-2355ec5f5a8e
+2025-06-05 13:35:10,180 - kairix.ui.functions - INFO - 
+Message: c749c87a-7a77-44d3-868e-558456dc10c6
+2025-06-05 13:35:10,187 - kairix.ui.functions - INFO - 
+Message: bbb21e37-8d80-46c3-9cb8-8c520e41e0ec
+2025-06-05 13:35:10,193 - kairix.ui.functions - INFO - 
+Message: d3798e9a-1cb5-4ef6-9d72-f2c80a379735
+2025-06-05 13:35:10,198 - kairix.ui.functions - INFO - 
+Message: bbb21439-0ed8-4e7a-8aca-2e0bab6df397
+2025-06-05 13:35:10,203 - kairix.ui.functions - INFO - 
+Message: ce35bb4a-da11-4b4f-819e-e082fed80f32
+2025-06-05 13:35:10,208 - kairix.ui.functions - INFO - 
+Message: bbb21f70-308e-4eeb-9cee-b369b75ab06b
+2025-06-05 13:35:10,214 - kairix.ui.functions - INFO - 
+Message: e36d8a62-68ae-4736-ab48-d57b905e75e1
+2025-06-05 13:35:10,219 - kairix.ui.functions - INFO - 
+Message: bbb219cf-c524-4058-8985-9cd4183d9d39
+2025-06-05 13:35:10,225 - kairix.ui.functions - INFO - 
+Message: 925418ce-97da-46b0-9865-ffb87586cec0
+2025-06-05 13:35:10,231 - kairix.ui.functions - INFO - 
+Message: bbb21e4a-d9eb-46c0-a865-e351f4e27c20
+2025-06-05 13:35:10,237 - kairix.ui.functions - INFO - 
+Message: 9090e4a8-0e90-4e86-9f7c-0286e9d64d54
+2025-06-05 13:35:10,242 - kairix.ui.functions - INFO - 
+Message: bbb21e2b-72a3-4623-9e80-0ceadfd7716f
+2025-06-05 13:35:10,248 - kairix.ui.functions - INFO - 
+Message: 18cb5404-2c79-4385-a0b4-48c906f2041a
+2025-06-05 13:35:10,253 - kairix.ui.functions - INFO - 
+Message: bbb21c13-9f45-4836-b435-22887427a07e
+2025-06-05 13:35:10,259 - kairix.ui.functions - INFO - 
+Message: a5fe301d-2d87-4692-b0ca-8aa3c92893cb
+2025-06-05 13:35:10,264 - kairix.ui.functions - INFO - 
+Message: bbb21c0b-6c08-451d-bdeb-8d4bfc6ad5dc
+2025-06-05 13:35:10,269 - kairix.ui.functions - INFO - 
+Message: 239152ab-7ea8-4bda-8e41-16cbbb7630a3
+2025-06-05 13:35:10,275 - kairix.ui.functions - INFO - 
+Message: bbb21576-d957-4db9-878b-5f58ff8aaec5
+2025-06-05 13:35:10,281 - kairix.ui.functions - INFO - 
+Message: e9fdb17e-63b9-4d14-a39c-93cdb288a752
+2025-06-05 13:35:10,286 - kairix.ui.functions - INFO - 
+Message: bbb216ec-641e-4110-999f-8a962a92094c
+2025-06-05 13:35:10,292 - kairix.ui.functions - INFO - 
+Message: 4912d484-cc74-4032-b1c4-6235b9e3db75
+2025-06-05 13:35:10,298 - kairix.ui.functions - INFO - 
+Message: bbb21cf7-79e6-42ad-8834-8e2734ef2e5f
+2025-06-05 13:35:10,303 - kairix.ui.functions - INFO - 
+Message: 6c0db060-d1b9-4377-b768-9957f5e27656
+2025-06-05 13:35:10,308 - kairix.ui.functions - INFO - 
+Message: bbb21a3d-66dc-41e9-b6d8-b565f4500737
+2025-06-05 13:35:10,313 - kairix.ui.functions - INFO - 
+Message: 07b0350b-2780-4b6a-90f5-4ac2b7436766
+2025-06-05 13:35:10,313 - kairix.ui.functions - INFO - 
+Message: a956cf83-1cea-400b-9ab6-a73be641e892
+2025-06-05 13:35:10,313 - kairix.ui.functions - INFO - 
+Message: 733e85d6-76ad-4c0d-8b74-2d7e18c2ac13
+2025-06-05 13:35:10,318 - kairix.ui.functions - INFO - 
+Message: bbb21260-8acc-4c15-99a0-e4e4dc03c714
+2025-06-05 13:35:10,324 - kairix.ui.functions - INFO - 
+Message: b21b067a-2469-485a-8e6d-d89536e8b378
+2025-06-05 13:35:10,331 - kairix.ui.functions - INFO - 
+Message: bbb21a57-e42f-4dc5-957d-928b0bb8fbe1
+2025-06-05 13:35:10,338 - kairix.ui.functions - INFO - 
+Message: d438f9de-bd19-4735-bd3c-30af7aafacf7
+2025-06-05 13:35:10,345 - kairix.ui.functions - INFO - 
+Message: bbb2176c-6286-4cb4-8758-e59131953b22
+2025-06-05 13:35:10,351 - kairix.ui.functions - INFO - 
+Message: 28cf7fc3-197e-40e2-8a09-459c01bc0e05
+2025-06-05 13:35:10,357 - kairix.ui.functions - INFO - 
+Message: bbb21f83-703d-45a0-a25d-9dfed264fe38
+2025-06-05 13:35:10,364 - kairix.ui.functions - INFO - 
+Message: f866fb11-7894-4f36-9f61-e2bed1ea73c5
+2025-06-05 13:35:10,371 - kairix.ui.functions - INFO - 
+Message: bbb21410-fa8b-4066-9f23-a605e102d839
+2025-06-05 13:35:10,376 - kairix.ui.functions - INFO - 
+Message: 066674aa-fda3-4b3f-bf28-0f2483fca9b7
+2025-06-05 13:35:10,382 - kairix.ui.functions - INFO - 
+Message: bbb21520-0021-4316-9b45-5d637860c097
+2025-06-05 13:35:10,388 - kairix.ui.functions - INFO - 
+Message: 26719668-3d7e-42ba-8921-7db0b1503a8f
+2025-06-05 13:35:10,396 - kairix.ui.functions - INFO - 
+Message: bbb21876-c923-4650-a423-f3e5d8c6ef52
+2025-06-05 13:35:10,401 - kairix.ui.functions - INFO - 
+Message: 0cbb0581-4810-4d1e-8b8f-dc5381f4839a
+2025-06-05 13:35:10,407 - kairix.ui.functions - INFO - 
+Message: bbb214f6-ec50-41b9-a865-b0bd035013cb
+2025-06-05 13:35:10,413 - kairix.ui.functions - INFO - 
+Message: 6ed72759-b12b-45ae-8a98-79879366f968
+2025-06-05 13:35:10,420 - kairix.ui.functions - INFO - 
+Message: bbb21a32-e461-4a9b-b490-18855f32cc96
+2025-06-05 13:35:10,426 - kairix.ui.functions - INFO - 
+Message: f78b0c1d-b1d9-4005-b0b5-8828eedeb7c4
+2025-06-05 13:35:10,426 - kairix.ui.functions - INFO - 
+Message: e47cdcee-1976-4172-830d-0911386b20fd
+2025-06-05 13:35:10,427 - kairix.ui.functions - INFO - 
+Message: d15477fe-0512-4fe8-819a-ebba9c6b44f4
+2025-06-05 13:35:10,432 - kairix.ui.functions - INFO - 
+Message: bbb21ad8-dc2a-4991-8bfa-74786ed76b70
+2025-06-05 13:35:10,438 - kairix.ui.functions - INFO - 
+Message: b286d41b-82da-4ad8-b60b-38937b84759a
+2025-06-05 13:35:10,438 - kairix.ui.functions - INFO - 
+Message: ebc6218e-7d93-4b64-8a27-9a413ea3f671
+2025-06-05 13:35:10,438 - kairix.ui.functions - INFO - 
+Message: d8dfb7af-0609-4b64-b1e2-ce09483da39f
+2025-06-05 13:35:10,445 - kairix.ui.functions - INFO - 
+Message: bbb2197a-12a2-4079-a757-1647b6187b0e
+2025-06-05 13:35:10,451 - kairix.ui.functions - INFO - 
+Message: fe05f8fb-ecab-4389-a7ed-cd093c86809f
+2025-06-05 13:35:10,451 - kairix.ui.functions - INFO - 
+Message: 90a6d069-2e71-4c10-b100-e4162a7b480e
+2025-06-05 13:35:10,451 - kairix.ui.functions - INFO - 
+Message: 9acc20e4-d40b-4a75-8f71-d2705c79aae9
+2025-06-05 13:35:10,456 - kairix.ui.functions - INFO - 
+Message: bbb21682-d3db-484d-a775-f1bf2553a843
+2025-06-05 13:35:10,461 - kairix.ui.functions - INFO - 
+Message: d873a576-0b60-4896-8ba8-828a8e0e244b
+2025-06-05 13:35:10,462 - kairix.ui.functions - INFO - 
+Message: 9a117051-eaea-4a69-bd45-55c22d56210a
+2025-06-05 13:35:10,462 - kairix.ui.functions - INFO - 
+Message: 764fa57d-e2df-4d27-a123-3e806e7d255e
+2025-06-05 13:35:10,468 - kairix.ui.functions - INFO - 
+Message: bbb21547-0c0f-49c3-9f91-aadfe07626e2
+2025-06-05 13:35:10,474 - kairix.ui.functions - INFO - 
+Message: 12ca2b83-51c6-499a-89fc-709784977c97
+2025-06-05 13:35:10,474 - kairix.ui.functions - INFO - 
+Message: 3bbb794e-2127-434b-bfc5-be8a0edc4a4d
+2025-06-05 13:35:10,474 - kairix.ui.functions - INFO - 
+Message: 130aaf58-f727-4a93-9b69-1abce653b2b9
+2025-06-05 13:35:10,481 - kairix.ui.functions - INFO - 
+Message: bbb21158-e302-420a-904d-e4c51e0e2e5a
+2025-06-05 13:35:10,487 - kairix.ui.functions - INFO - 
+Message: 136769f4-3d8c-4201-bb6b-86eb2d0566a4
+2025-06-05 13:35:10,487 - kairix.ui.functions - INFO - 
+Message: 0f612b14-82f1-49df-8492-69afb64e6a19
+2025-06-05 13:35:10,487 - kairix.ui.functions - INFO - 
+Message: 88ea3e7d-bbf9-4798-ada7-87a7ca082bdc
+2025-06-05 13:35:10,494 - kairix.ui.functions - INFO - 
+Message: bbb211d2-df73-4079-b104-c26336b1b390
+2025-06-05 13:35:10,500 - kairix.ui.functions - INFO - 
+Message: 44b6a2cf-aa82-4ee0-b3dc-9e2d51329cd7
+2025-06-05 13:35:10,500 - kairix.ui.functions - INFO - 
+Message: dc5ca52f-5949-43c5-a83c-100aecfc158b
+2025-06-05 13:35:10,500 - kairix.ui.functions - INFO - 
+Message: cacd6fb5-2885-41d2-b506-3a0e74ed3903
+2025-06-05 13:35:10,506 - kairix.ui.functions - INFO - 
+Message: bbb210b5-d877-4451-b4a4-d75134f12c3e
+2025-06-05 13:35:10,512 - kairix.ui.functions - INFO - 
+Message: 81b92b6f-bc96-44ea-8d01-bcacaef75c26
+2025-06-05 13:35:10,512 - kairix.ui.functions - INFO - 
+Message: 049a9b77-529b-48b7-866b-3429e6621193
+2025-06-05 13:35:10,513 - kairix.ui.functions - INFO - 
+Message: 9bdc4e71-0e88-46af-9ade-fc9f2aaca8b7
+2025-06-05 13:35:10,519 - kairix.ui.functions - INFO - 
+Message: 53988213-54d4-4d1d-a197-36818ee9f490
+2025-06-05 13:35:10,525 - kairix.ui.functions - INFO - 
+Message: b26dfb32-eb4e-4fbc-8a10-86198280e602
+2025-06-05 13:35:10,532 - kairix.ui.functions - INFO - 
+Message: 7be07058-395d-463a-8570-f93ce7fd5245
+2025-06-05 13:35:10,532 - kairix.ui.functions - INFO - 
+Message: f7419ad2-3388-4b23-88dd-8c6aeb18e7ef
+2025-06-05 13:35:10,532 - kairix.ui.functions - INFO - 
+Message: 4dc5f4a5-f6c3-447d-b973-7d4a737a244a
+2025-06-05 13:35:10,538 - kairix.ui.functions - INFO - 
+Message: f2d67f41-2434-4b7e-8885-e3fe33e2bf0a
+2025-06-05 13:35:10,539 - kairix.ui.functions - INFO - 
+Message: be7ae665-59c3-41f8-8fcc-23bb5ce42885
+2025-06-05 13:35:10,539 - kairix.ui.functions - INFO - 
+Message: 25a93e8d-eb3d-408e-b871-fb97191842bc
+2025-06-05 13:35:10,546 - kairix.ui.functions - INFO - 
+Message: 52fb7012-9b09-4746-aec9-928919292a77
+2025-06-05 13:35:10,551 - kairix.ui.functions - INFO - 
+Message: 81a0d78f-8914-4c1b-a18e-c594bcc1d8a3
+2025-06-05 13:35:10,557 - kairix.ui.functions - INFO - 
+Message: 579ded40-007f-402f-99ba-440ba3bf3c79
+2025-06-05 13:35:10,565 - kairix.ui.functions - INFO - 
+Message: 87a6dc30-8f39-4095-aa82-25818d060f11
+2025-06-05 13:35:10,565 - kairix.ui.functions - INFO - 
+Message: 6af988d6-a7b4-4f38-a91a-bdc2c144728c
+2025-06-05 13:35:10,565 - kairix.ui.functions - INFO - 
+Message: d599f8b9-625a-4815-87ca-f4f1b25cddef
+2025-06-05 13:35:10,573 - kairix.ui.functions - INFO - 
+Message: 513f7ed4-d63d-4a3b-a090-75d4324b31d4
+2025-06-05 13:35:10,580 - kairix.ui.functions - INFO - 
+Message: 85b855b1-39f5-4481-8819-97c3bc3f1c70
+2025-06-05 13:35:10,580 - kairix.ui.functions - INFO - 
+Message: ffb262a7-d2b6-40ae-8f41-aa7a88a38565
+2025-06-05 13:35:10,580 - kairix.ui.functions - INFO - 
+Message: 94eb29d5-cb5b-4ccf-963b-ef05ba108d0f
+2025-06-05 13:35:10,587 - kairix.ui.functions - INFO - 
+Message: 5e161917-8b0d-4e44-a276-21c687b73da7
+2025-06-05 13:35:10,595 - kairix.ui.functions - INFO - 
+Message: f42961e9-769b-42ed-b5e7-4da7701f9d8e
+2025-06-05 13:35:10,595 - kairix.ui.functions - INFO - 
+Message: d53891f6-c1ed-49dc-a926-0cb3eff8c09b
+2025-06-05 13:35:10,595 - kairix.ui.functions - INFO - 
+Message: 1e3e1336-f145-4739-9616-cb1ace19bd09
+2025-06-05 13:35:10,603 - kairix.ui.functions - INFO - 
+Message: 3dd93a18-a9c0-449b-bf70-cafaf14a7b13
+2025-06-05 13:35:10,610 - kairix.ui.functions - INFO - 
+Message: 32b4544c-2724-4964-8162-98813e03a55a
+2025-06-05 13:35:10,610 - kairix.ui.functions - INFO - 
+Message: 9d26166d-f61d-406d-8000-f56251d053a2
+2025-06-05 13:35:10,610 - kairix.ui.functions - INFO - 
+Message: 7c5f8f4f-08e6-44b4-b3ac-b1e63b464b2b
+2025-06-05 13:35:10,618 - kairix.ui.functions - INFO - 
+Message: f01a717c-f144-4f70-b6ba-688fe8e4f15b
+2025-06-05 13:35:10,626 - kairix.ui.functions - INFO - 
+Message: e8f04eaf-6f2e-4f13-9672-37907097fbb4
+2025-06-05 13:35:10,626 - kairix.ui.functions - INFO - 
+Message: df4b045b-1b1c-49de-b94c-b2b408b7928d
+2025-06-05 13:35:10,626 - kairix.ui.functions - INFO - 
+Message: d2d3a017-3d2a-42c3-ba63-424a2da6c756
+2025-06-05 13:35:10,633 - kairix.ui.functions - INFO - 
+Message: 99b865a9-a9f5-4adb-a511-5f2456b55b9b
+2025-06-05 13:35:10,639 - kairix.ui.functions - INFO - 
+Message: 13a1f2df-8b56-477c-bb9a-a597c9b0068e
+2025-06-05 13:35:10,647 - kairix.ui.functions - INFO - 
+Message: 92e3ab5b-d551-42c6-ae66-9c7358d7c1af
+2025-06-05 13:35:10,653 - kairix.ui.functions - INFO - 
+Message: 95157e67-3ed3-4a69-9f24-0835bdc8ac78
+2025-06-05 13:35:10,662 - kairix.ui.functions - INFO - 
+Message: 89433682-d4a8-4f4d-844c-1ce0ae71c450
+2025-06-05 13:35:10,669 - kairix.ui.functions - INFO - 
+Message: d041681b-cf90-4ad6-b626-fbc70efa9644
+2025-06-05 13:35:10,675 - kairix.ui.functions - INFO - 
+Message: c0689061-cc1c-4f98-b086-f0b542c227ec
+2025-06-05 13:35:10,680 - kairix.ui.functions - INFO - 
+Message: 159fe2ba-b099-4982-b019-f41cf0f31b5d
+2025-06-05 13:35:10,680 - kairix.ui.functions - INFO - 
+Message: bdd09a7d-4230-4342-a6f7-fc6507a3ea9d
+2025-06-05 13:35:10,680 - kairix.ui.functions - INFO - 
+Message: 7b273d76-b30b-4687-84b9-2aeadca5e43f
+2025-06-05 13:35:10,685 - kairix.ui.functions - INFO - 
+Message: 86cdf8cc-493d-498e-b911-eb4a1da0c3db
+2025-06-05 13:35:10,690 - kairix.ui.functions - INFO - 
+Message: e6664c0f-6324-4d2c-9f4d-350ddbc4c1ff
+2025-06-05 13:35:10,690 - kairix.ui.functions - INFO - 
+Message: 5f309a49-0478-4db2-a5eb-cb1c2c188ae7
+2025-06-05 13:35:10,690 - kairix.ui.functions - INFO - 
+Message: fa42cd5e-1c91-4667-ae26-44fa466945b1
+2025-06-05 13:35:10,695 - kairix.ui.functions - INFO - 
+Message: a3c739c1-a862-4163-98bc-fb022c6dfaf9
+2025-06-05 13:35:10,700 - kairix.ui.functions - INFO - 
+Message: 56d2e77d-01aa-4402-a0c8-f30b59e8553c
+2025-06-05 13:35:10,705 - kairix.ui.functions - INFO - 
+Message: 6d9ed833-c2d1-4bb7-9721-27c04e67c290
+2025-06-05 13:35:10,709 - kairix.ui.functions - INFO - 
+Message: 416045d7-045f-4760-a87c-84611726442d
+2025-06-05 13:35:10,714 - kairix.ui.functions - INFO - 
+Message: 2f6e65d0-cf07-4258-a1ca-3049c6b95146
+2025-06-05 13:35:10,719 - kairix.ui.functions - INFO - 
+Message: 260705f4-c38c-4fc7-9076-481880d05112
+2025-06-05 13:35:10,724 - kairix.ui.functions - INFO - 
+Message: b07adb0b-fe13-492a-a259-2f6ead2101d7
+2025-06-05 13:35:10,728 - kairix.ui.functions - INFO - 
+Message: e911c9d1-a08e-4713-95a6-868cc0f04bc1
+2025-06-05 13:35:10,733 - kairix.ui.functions - INFO - 
+Message: a769fe8a-cae8-49b5-aaad-09713f709a53
+2025-06-05 13:35:10,738 - kairix.ui.functions - INFO - 
+Message: e5f252c9-3e17-4d6f-94d7-0ff16f67c7f0
+2025-06-05 13:35:10,743 - kairix.ui.functions - INFO - 
+Message: 35d9a85e-ba2b-401f-8407-9bed7708a6c4
+2025-06-05 13:35:10,748 - kairix.ui.functions - INFO - 
+Message: 2aac1a82-fa9d-4fdd-a8b6-368f97648044
+2025-06-05 13:35:10,752 - kairix.ui.functions - INFO - 
+Message: b49a9232-7693-45fa-9623-43b758ebd9c4
+2025-06-05 13:35:10,756 - kairix.ui.functions - INFO - 
+Message: 95dec8cf-e314-4ff6-a015-4dbb007f38dc
+2025-06-05 13:35:10,761 - kairix.ui.functions - INFO - 
+Message: 8c02b757-8e1f-440e-9aca-b35b73a24fce
+2025-06-05 13:35:10,767 - kairix.ui.functions - INFO - 
+Message: 715ea15a-b0f7-4fa1-ba3c-767496ef0194
+2025-06-05 13:35:10,767 - kairix.ui.functions - INFO - 
+Message: a0d03f28-58c0-42ed-a2e9-7f22b7a3508b
+2025-06-05 13:35:10,767 - kairix.ui.functions - INFO - 
+Message: 83046f00-7e63-48b5-81e9-04ef5409e2d8
+2025-06-05 13:35:10,772 - kairix.ui.functions - INFO - 
+Message: 4a00c45e-bf8d-4bdb-8700-3368a9aec357
+2025-06-05 13:35:10,777 - kairix.ui.functions - INFO - 
+Message: b990cb14-1c4d-428f-86b6-53da63745a8e
+2025-06-05 13:35:10,783 - kairix.ui.functions - INFO - 
+Message: 75af5bab-9dc6-4c68-8455-12db18b3d778
+2025-06-05 13:35:10,789 - kairix.ui.functions - INFO - 
+Message: aba2c8f6-0e08-4ed0-aecd-76987ec1fecd
+2025-06-05 13:35:10,794 - kairix.ui.functions - INFO - 
+Message: 2455d08e-808c-4a0f-89f0-226b710e08b5
+2025-06-05 13:35:10,799 - kairix.ui.functions - INFO - 
+Message: fea4079e-81bb-49b7-b5fe-2e69ffaca65d
+2025-06-05 13:35:10,804 - kairix.ui.functions - INFO - 
+Message: a30970c0-9b25-4e8b-ba6b-e3b043d99563
+2025-06-05 13:35:10,810 - kairix.ui.functions - INFO - 
+Message: 5b3e6a56-2a83-42b9-bba8-4f4d4623b882
+2025-06-05 13:35:10,815 - kairix.ui.functions - INFO - 
+Message: 145e16e1-426c-4bee-b976-1a711da9e869
+2025-06-05 13:35:10,821 - kairix.ui.functions - INFO - 
+Message: 123bfac6-7041-444c-b695-7b69a09b2d78
+2025-06-05 13:35:10,828 - kairix.ui.functions - INFO - 
+Message: 604c1ccc-221b-4a06-9309-c40a83e80737
+2025-06-05 13:35:10,834 - kairix.ui.functions - INFO - 
+Message: c2504f3d-403d-4d59-91d7-c4ba1d518991
+2025-06-05 13:35:10,840 - kairix.ui.functions - INFO - 
+Message: 2466c4b4-f36b-458e-844b-57ce5ae3d099
+2025-06-05 13:35:10,847 - kairix.ui.functions - INFO - 
+Message: e85b2b46-363b-479e-b0c6-ba6034b482e4
+2025-06-05 13:35:10,854 - kairix.ui.functions - INFO - 
+Message: bcc0c2ea-c2ad-4c02-8450-9793f01568b1
+2025-06-05 13:35:10,860 - kairix.ui.functions - INFO - 
+Message: 5c6dbd12-347e-430f-98ac-7bc02ce88095
+2025-06-05 13:35:10,866 - kairix.ui.functions - INFO - 
+Message: 973476ad-30fc-49ec-b971-e476898b870b
+2025-06-05 13:35:10,871 - kairix.ui.functions - INFO - 
+Message: eda189f8-fd6b-4b38-83f8-448bb765afef
+2025-06-05 13:35:10,879 - kairix.ui.functions - INFO - 
+Message: 11a538a1-1f80-492c-ac6f-4b283f37153a
+2025-06-05 13:35:10,885 - kairix.ui.functions - INFO - 
+Message: 08e756fb-93bc-42be-aa14-d27c0578ef6e
+2025-06-05 13:35:10,891 - kairix.ui.functions - INFO - 
+Message: 25ae6cca-64d2-48d2-af94-332bfa61bd37
+2025-06-05 13:35:10,898 - kairix.ui.functions - INFO - 
+Message: ba42c7bc-1f6c-4d8c-901d-06d71d74f579
+2025-06-05 13:35:10,904 - kairix.ui.functions - INFO - 
+Message: e9f0723a-0051-48c7-b5b0-577e8d7053fb
+2025-06-05 13:35:10,909 - kairix.ui.functions - INFO - 
+Message: 5c878212-9766-4acf-89eb-a1e4df845df6
+2025-06-05 13:35:10,914 - kairix.ui.functions - INFO - 
+Message: 3aca0cd4-9bce-4624-8608-6ef8c48d832e
+2025-06-05 13:35:10,920 - kairix.ui.functions - INFO - 
+Message: c8683e3f-66c6-40e5-85cd-6bd6f57e4520
+2025-06-05 13:35:10,926 - kairix.ui.functions - INFO - 
+Message: 779ae5a7-820e-4098-b80e-921934cf5e5b
+2025-06-05 13:35:10,932 - kairix.ui.functions - INFO - 
+Message: 18457403-1619-4022-8544-0804aab3980b
+2025-06-05 13:35:10,939 - kairix.ui.functions - INFO - 
+Message: 6139dc57-4f56-4070-aadd-e962f6396e75
+2025-06-05 13:35:10,946 - kairix.ui.functions - INFO - 
+Message: 7fc54124-9041-4626-bda5-3c76e2aed979
+2025-06-05 13:35:10,953 - kairix.ui.functions - INFO - 
+Message: 7c6dbcee-3640-4056-a75c-32d955c3d825
+2025-06-05 13:35:10,958 - kairix.ui.functions - INFO - 
+Message: 20fca174-3bff-4433-a06f-a3ba84d1cb7c
+2025-06-05 13:35:10,963 - kairix.ui.functions - INFO - 
+Message: d88036a4-42ac-49f0-8cef-29d80edd997f
+2025-06-05 13:35:10,969 - kairix.ui.functions - INFO - 
+Message: 05a560f9-6a02-4e23-8fa3-62442a3cf535
+2025-06-05 13:35:10,976 - kairix.ui.functions - INFO - 
+Message: 14f34c9b-36d1-4a8b-83be-deb2fd92600d
+2025-06-05 13:35:10,981 - kairix.ui.functions - INFO - 
+Message: c0648390-c0a3-4373-b01e-ae7f2915c394
+2025-06-05 13:35:10,987 - kairix.ui.functions - INFO - 
+Message: 3ba0665f-7881-4c55-a2e8-462a082742b8
+2025-06-05 13:35:10,993 - kairix.ui.functions - INFO - 
+Message: f470c121-1db3-4d06-9734-cb1933b13a51
+2025-06-05 13:35:11,001 - kairix.ui.functions - INFO - 
+Message: 9e7b6925-7976-4d6b-a67d-898a77acd6c6
+2025-06-05 13:35:11,006 - kairix.ui.functions - INFO - 
+Message: 1700bf97-1449-4332-bc05-6b5206c5f1af
+2025-06-05 13:35:11,012 - kairix.ui.functions - INFO - 
+Message: 2bbbaa12-0271-4d98-a6fa-45fd8d17f393
+2025-06-05 13:35:11,019 - kairix.ui.functions - INFO - 
+Message: fb641520-0c35-4604-9155-88aa67d98dd8
+2025-06-05 13:35:11,026 - kairix.ui.functions - INFO - 
+Message: b0657daa-d5e7-4cb0-80b4-98c02ce97a1b
+2025-06-05 13:35:11,031 - kairix.ui.functions - INFO - 
+Message: bcc256bb-55b9-4906-ba3a-851706e3ae58
+2025-06-05 13:35:11,037 - kairix.ui.functions - INFO - 
+Message: 4e69109d-7b95-4be0-bd0e-d8d03faff241
+2025-06-05 13:35:11,043 - kairix.ui.functions - INFO - 
+Message: 2d633327-a5c2-4e59-ad54-d7817bb1135a
+2025-06-05 13:35:11,051 - kairix.ui.functions - INFO - 
+Message: 2f12a552-9446-41ea-a7bf-d6e7cb8644f0
+2025-06-05 13:35:11,056 - kairix.ui.functions - INFO - 
+Message: 7cc24367-8335-4d6a-aa42-1cecf33202bd
+2025-06-05 13:35:11,062 - kairix.ui.functions - INFO - 
+Message: adba4b76-99fd-4635-bcdf-5470c787f424
+2025-06-05 13:35:11,068 - kairix.ui.functions - INFO - 
+Message: c092672b-a5c4-4f35-af53-8417b548151b
+2025-06-05 13:35:11,079 - kairix.ui.functions - INFO - 
+Message: 08412c89-5365-49e0-91da-fe6e98381594
+2025-06-05 13:35:11,085 - kairix.ui.functions - INFO - 
+Message: 71ed087e-9827-4c13-8109-a6073243a86c
+2025-06-05 13:35:11,092 - kairix.ui.functions - INFO - 
+Message: e7bb53e5-2986-4084-b741-b1b79a6c5278
+2025-06-05 13:35:11,106 - kairix.ui.functions - INFO - 
+Message: f06e1443-fcd0-4fef-8ac6-2f88e7cb76a3
+2025-06-05 13:35:11,115 - kairix.ui.functions - INFO - 
+Message: 9dcca117-5221-47e2-8cbd-06d0c1044c9c
+2025-06-05 13:35:11,123 - kairix.ui.functions - INFO - 
+Message: c5ab2dc6-3da3-42c6-942f-c3e35e23c6b4
+2025-06-05 13:35:11,131 - kairix.ui.functions - INFO - 
+Message: 42afa9ee-1fc7-4965-af0c-05c9e62586ef
+2025-06-05 13:35:11,137 - kairix.ui.functions - INFO - 
+Message: 8a3a0fa9-b121-43a5-9f77-1ed951d54c6d
+2025-06-05 13:35:11,143 - kairix.ui.functions - INFO - 
+Message: 2391b167-cdbe-473f-b2aa-0f11c0464fd4
+2025-06-05 13:35:11,149 - kairix.ui.functions - INFO - 
+Message: a11ecd48-523e-47ba-8c9e-92d554adbe1a
+2025-06-05 13:35:11,156 - kairix.ui.functions - INFO - 
+Message: bbb21e75-69f8-4b7d-8add-26840d62882e
+2025-06-05 13:35:11,161 - kairix.ui.functions - INFO - 
+Message: ef99f3d5-ff7d-4cb5-9eb7-c76b613a5465
+2025-06-05 13:35:11,161 - kairix.ui.functions - INFO - 
+Message: d5c3c57d-860b-4eae-9788-64f3cb6c2c3f
+2025-06-05 13:35:11,162 - kairix.ui.functions - INFO - 
+Message: 113c0594-1dcf-4a15-b53b-1d1821f589d6
+2025-06-05 13:35:11,167 - kairix.ui.functions - INFO - 
+Message: bbb21922-6157-4899-b31b-23b4880c5b99
+2025-06-05 13:35:11,173 - kairix.ui.functions - INFO - 
+Message: 888c7721-01e8-4f19-ae68-b1d06f663858
+2025-06-05 13:35:11,173 - kairix.ui.functions - INFO - 
+Message: a18a2f69-c137-48cc-b921-669886b47127
+2025-06-05 13:35:11,173 - kairix.ui.functions - INFO - 
+Message: 6f47870e-23e6-46c5-bd30-df6e166d1355
+2025-06-05 13:35:11,181 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:35:11,181 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:35:11,181 - kairix.ui.functions - INFO - 
+Message: a9d610cf-920b-4e6c-8e94-e05482a19127
+2025-06-05 13:35:11,181 - kairix.ui.functions - INFO - 
+Message: 218b203c-09e0-4bdc-a573-c6b898b97984
+2025-06-05 13:35:11,186 - kairix.ui.functions - INFO - 
+Message: 2a43b23f-a32a-4322-9c0f-ab1782d5cb8c
+2025-06-05 13:35:11,193 - kairix.ui.functions - INFO - 
+Message: fcfdf6c8-423b-46eb-8686-d403aaaf3e30
+2025-06-05 13:35:11,193 - kairix.ui.functions - INFO - 
+Message: 495b68f5-130d-4dc4-9d5b-d01071c8f040
+2025-06-05 13:35:11,193 - kairix.ui.functions - INFO - 
+Message: d085389d-8c39-4d19-a85d-0f2965b7bb51
+2025-06-05 13:35:11,200 - kairix.ui.functions - INFO - 
+Message: 3b3d29d8-2e6c-45ca-8493-2085223ab8e4
+2025-06-05 13:35:11,208 - kairix.ui.functions - INFO - 
+Message: 4a97ae77-1857-4123-97cc-da8973934532
+2025-06-05 13:35:11,208 - kairix.ui.functions - INFO - 
+Message: 44ee8361-c79c-465e-bb11-fda044c37e16
+2025-06-05 13:35:11,208 - kairix.ui.functions - INFO - 
+Message: 4dc4ee6e-07af-462b-908e-52bfd20e0464
+2025-06-05 13:35:11,208 - kairix.ui.functions - INFO - 
+Message: a3d75396-a0af-4bb2-87ef-64cd3e0a59ee
+2025-06-05 13:35:11,215 - kairix.ui.functions - INFO - 
+Message: bb3f7cd4-5e9f-4331-b9ae-9cf21ec000cf
+2025-06-05 13:35:11,220 - kairix.ui.functions - INFO - 
+Message: 806c65c5-c8c6-455f-a1ec-af5cd6c6f876
+2025-06-05 13:35:11,227 - kairix.ui.functions - INFO - 
+Message: f6393cfc-e7c4-4bed-a89d-d928dd8aeda4
+2025-06-05 13:35:11,227 - kairix.ui.functions - INFO - 
+Message: d5ba56df-4622-4ad5-8ec5-62ea3dfd2e24
+2025-06-05 13:35:11,227 - kairix.ui.functions - INFO - 
+Message: 730f3cde-d8cc-4124-b618-c2732e4b4a77
+2025-06-05 13:35:11,232 - kairix.ui.functions - INFO - 
+Message: 98f15c5d-8802-4e6d-a9e7-4a77b3652f83
+2025-06-05 13:35:11,232 - kairix.ui.functions - INFO - 
+Message: a245854e-f515-40d0-90d0-773652e178ae
+2025-06-05 13:35:11,238 - kairix.ui.functions - INFO - 
+Message: bef96e07-2d2b-4fa3-a543-b2df23bd8506
+2025-06-05 13:35:11,244 - kairix.ui.functions - INFO - 
+Message: 17fff9c5-e5f1-4449-9271-54e631116da3
+2025-06-05 13:35:11,244 - kairix.ui.functions - INFO - 
+Message: edbea42d-d5aa-4057-8fdb-f7491e999408
+2025-06-05 13:35:11,244 - kairix.ui.functions - INFO - 
+Message: ed01832d-e891-417d-bd9f-50eaaad942e1
+2025-06-05 13:35:11,250 - kairix.ui.functions - INFO - 
+Message: a1bbe0b8-5dd2-4253-82d0-b9420d24c1df
+2025-06-05 13:35:11,256 - kairix.ui.functions - INFO - 
+Message: 3ef0a0b1-94d6-4cf8-9342-7998a449a6b9
+2025-06-05 13:35:11,262 - kairix.ui.functions - INFO - 
+Message: f7f178a2-1094-48a2-88a1-9eed013fd46c
+2025-06-05 13:35:11,262 - kairix.ui.functions - INFO - 
+Message: 07f58272-a8a6-42c8-9838-3bc8dcb29c51
+2025-06-05 13:35:11,262 - kairix.ui.functions - INFO - 
+Message: d5cb920c-86ab-42e0-8dee-d602dd847608
+2025-06-05 13:35:11,268 - kairix.ui.functions - INFO - 
+Message: 9b4cf5b9-dfdc-4c89-a136-d4479e822aee
+2025-06-05 13:35:11,268 - kairix.ui.functions - INFO - 
+Message: 03dedeb6-7f03-448f-8b5b-0d6d74142cdb
+2025-06-05 13:35:11,274 - kairix.ui.functions - INFO - 
+Message: e5525d55-45f2-49db-a19c-e70a449b217d
+2025-06-05 13:35:11,275 - kairix.ui.functions - INFO - 
+Message: 2091e071-3c59-4a85-89b9-97d9c244be48
+2025-06-05 13:35:11,275 - kairix.ui.functions - INFO - 
+Message: ce22ebc4-4095-4918-b106-991ffe9d6681
+2025-06-05 13:35:11,281 - kairix.ui.functions - INFO - 
+Message: 2a86aac1-4fee-48ab-b50e-b8096bbfaa41
+2025-06-05 13:35:11,287 - kairix.ui.functions - INFO - 
+Message: c7753fea-2a9b-4fe0-8bcc-c4ffcac0b578
+2025-06-05 13:35:11,287 - kairix.ui.functions - INFO - 
+Message: 63bf97f8-9100-476c-9ab4-59d466eb8716
+2025-06-05 13:35:11,287 - kairix.ui.functions - INFO - 
+Message: 35b76cf2-92a6-4dd5-9deb-33931cac5b03
+2025-06-05 13:35:11,293 - kairix.ui.functions - INFO - 
+Message: 32a5dfc7-e859-4f2f-8f7b-d3f5dea4af1a
+2025-06-05 13:35:11,293 - kairix.ui.functions - INFO - 
+Message: 967de471-91d6-4693-9ba9-03ee2339e81d
+2025-06-05 13:35:11,298 - kairix.ui.functions - INFO - 
+Message: 9cd49fc9-f553-4eea-b5eb-1f7fc145ad37
+2025-06-05 13:35:11,298 - kairix.ui.functions - INFO - 
+Message: 178917b8-ab64-4ed0-a7bb-313cb227e4b8
+2025-06-05 13:35:11,298 - kairix.ui.functions - INFO - 
+Message: 8a1968ad-5087-494a-8d88-33c516ecd3f0
+2025-06-05 13:35:11,304 - kairix.ui.functions - INFO - 
+Message: e8387d2d-4cfc-4a51-aa85-18d7bcc298e8
+2025-06-05 13:35:11,310 - kairix.ui.functions - INFO - 
+Message: c5b6c389-d4d8-43c2-ac53-b6e12f7eb74d
+2025-06-05 13:35:11,310 - kairix.ui.functions - INFO - 
+Message: 8bfc911d-981b-449f-aaf7-c821c66a5a56
+2025-06-05 13:35:11,310 - kairix.ui.functions - INFO - 
+Message: afe13cd9-297f-4d62-911f-04929f3d8b5e
+2025-06-05 13:35:11,310 - kairix.ui.functions - INFO - 
+Message: 288a4fb0-51de-4dbd-a386-dd8206a63e9e
+2025-06-05 13:35:11,316 - kairix.ui.functions - INFO - 
+Message: 6d2e9fd1-dd07-41cc-a4e0-2e151146b900
+2025-06-05 13:35:11,321 - kairix.ui.functions - INFO - 
+Message: 5e0d1dc0-29bd-4f57-97ef-3be7f046395c
+2025-06-05 13:35:11,327 - kairix.ui.functions - INFO - 
+Message: 4184e33e-bd8f-445b-b4dc-b83fbc8ef3c3
+2025-06-05 13:35:11,333 - kairix.ui.functions - INFO - 
+Message: ab95b9ff-386d-4435-8544-1c49163eef26
+2025-06-05 13:35:11,338 - kairix.ui.functions - INFO - 
+Message: 19021847-4b80-4761-be30-8d4923a8dffc
+2025-06-05 13:35:11,338 - kairix.ui.functions - INFO - 
+Message: d5226ad3-ed34-4241-9d49-916f8692a941
+2025-06-05 13:35:11,338 - kairix.ui.functions - INFO - 
+Message: f267afa1-ce6f-48b8-80ec-feb79f59c8df
+2025-06-05 13:35:11,344 - kairix.ui.functions - INFO - 
+Message: c98e426b-f74e-49ea-9177-321b7f8a046d
+2025-06-05 13:35:11,349 - kairix.ui.functions - INFO - 
+Message: 2f20aab4-f334-4756-87b8-3e42db5e6030
+2025-06-05 13:35:11,355 - kairix.ui.functions - INFO - 
+Message: ac8a6a71-90ec-4c7c-a3b0-d9890e8eba2b
+2025-06-05 13:35:11,355 - kairix.ui.functions - INFO - 
+Message: 14300700-8297-4ffe-a8da-a2f3b1fe36c0
+2025-06-05 13:35:11,355 - kairix.ui.functions - INFO - 
+Message: 6728d8c9-2f61-49a0-9eff-5351a7ee0fe6
+2025-06-05 13:35:11,361 - kairix.ui.functions - INFO - 
+Message: 6df1a216-f658-4b8c-92ff-10679a1ccb8b
+2025-06-05 13:35:11,366 - kairix.ui.functions - INFO - 
+Message: d7442e88-7b2e-43bd-b13d-1281e18d9cc8
+2025-06-05 13:35:11,371 - kairix.ui.functions - INFO - 
+Message: b92e5bcd-b52a-47c9-a27f-c44dbaac872e
+2025-06-05 13:35:11,372 - kairix.ui.functions - INFO - 
+Message: 015c1128-a4c8-4876-acf5-e0dc086fc06f
+2025-06-05 13:35:11,372 - kairix.ui.functions - INFO - 
+Message: be651c59-ed4b-49bf-8ca2-10f8c90dec14
+2025-06-05 13:35:11,378 - kairix.ui.functions - INFO - 
+Message: 8ba064d6-3873-42d5-9fb5-c83ed380ab52
+2025-06-05 13:35:11,384 - kairix.ui.functions - INFO - 
+Message: 39e81a6b-6ced-47b6-a279-a5cc66469171
+2025-06-05 13:35:11,389 - kairix.ui.functions - INFO - 
+Message: 32cd09d9-95fe-45d0-b84b-b53ad1eb2919
+2025-06-05 13:35:11,394 - kairix.ui.functions - INFO - 
+Message: f96380b6-d5c9-48c6-a0cc-42b68dd95024
+2025-06-05 13:35:11,400 - kairix.ui.functions - INFO - 
+Message: db4c819d-a795-4c97-89a3-b111dc7dd0c6
+2025-06-05 13:35:11,405 - kairix.ui.functions - INFO - 
+Message: 1bbb4e74-767a-461d-9764-e8eca8ec0e0f
+2025-06-05 13:35:11,410 - kairix.ui.functions - INFO - 
+Message: bbb21753-345a-4719-934e-df6f9197cbc5
+2025-06-05 13:35:11,416 - kairix.ui.functions - INFO - 
+Message: 6428c32a-baf8-40e7-b46e-d9b7a4cba5dc
+2025-06-05 13:35:11,424 - kairix.ui.functions - INFO - 
+Message: 41dfaf9a-a31f-40e2-b6cc-67b3d6d263e0
+2025-06-05 13:35:11,430 - kairix.ui.functions - INFO - 
+Message: c5762dd3-46c3-4631-aaec-ef5739c507f0
+2025-06-05 13:35:11,430 - kairix.ui.functions - INFO - 
+Message: 9c3e9bfa-c4d9-4d51-b0a2-729546a17599
+2025-06-05 13:35:11,430 - kairix.ui.functions - INFO - 
+Message: d933ba4a-e8aa-4c59-8701-73f08d91e198
+2025-06-05 13:35:11,436 - kairix.ui.functions - INFO - 
+Message: bbb21e40-e8fc-4de3-a68f-adb5abd1b98d
+2025-06-05 13:35:11,446 - kairix.ui.functions - INFO - 
+Message: 8e218abc-a468-490b-8761-7154fac691bf
+2025-06-05 13:35:11,451 - kairix.ui.functions - INFO - 
+Message: 2e79d701-016d-4c74-97cd-64449949b33e
+2025-06-05 13:35:11,457 - kairix.ui.functions - INFO - 
+Message: bbb21a16-1035-49c8-8306-1466dcea56e3
+2025-06-05 13:35:11,465 - kairix.ui.functions - INFO - 
+Message: eeade87b-1773-48b2-ad7b-741e2e70a7f3
+2025-06-05 13:35:11,472 - kairix.ui.functions - INFO - 
+Message: a8cebd05-3ece-4554-bc6b-e02b27781dea
+2025-06-05 13:35:11,478 - kairix.ui.functions - INFO - 
+Message: bbb212f0-8ec1-47cb-9040-c7770512db8f
+2025-06-05 13:35:11,484 - kairix.ui.functions - INFO - 
+Message: 184f8aa4-c828-452a-8b7a-b8e176bb10dd
+2025-06-05 13:35:11,489 - kairix.ui.functions - INFO - 
+Message: bbb21ad7-284e-4158-9314-1f8209b5512b
+2025-06-05 13:35:11,496 - kairix.ui.functions - INFO - 
+Message: f231a498-1266-4ae0-863d-3c36fa00c16c
+2025-06-05 13:35:11,501 - kairix.ui.functions - INFO - 
+Message: bbb2119a-edd1-4016-b869-3ced88b250f2
+2025-06-05 13:35:11,507 - kairix.ui.functions - INFO - 
+Message: 3b9eac4f-33aa-48f0-887e-321631daa623
+2025-06-05 13:35:11,513 - kairix.ui.functions - INFO - 
+Message: bbb21b82-0003-4e70-936e-1740ef8a9af9
+2025-06-05 13:35:11,520 - kairix.ui.functions - INFO - 
+Message: 4f77ff76-2989-4628-b72a-81d30804e193
+2025-06-05 13:35:11,526 - kairix.ui.functions - INFO - 
+Message: bbb2144f-2f38-4e6b-b931-e5d3e8770b1a
+2025-06-05 13:35:11,532 - kairix.ui.functions - INFO - 
+Message: f3e48cf5-ddbe-4641-a258-2df28bf2c62c
+2025-06-05 13:35:11,537 - kairix.ui.functions - INFO - 
+Message: bbb2195c-b35c-40a5-8b4c-dc904f5c8a15
+2025-06-05 13:35:11,542 - kairix.ui.functions - INFO - 
+Message: 6a762ce0-bfb5-4b7b-bcc8-55f9a681bbd4
+2025-06-05 13:35:11,548 - kairix.ui.functions - INFO - 
+Message: bbb2195a-56b0-4674-8cf7-0888a5242b9d
+2025-06-05 13:35:11,554 - kairix.ui.functions - INFO - 
+Message: c8ce260f-664b-41b0-9c63-124dd4a61182
+2025-06-05 13:35:11,560 - kairix.ui.functions - INFO - 
+Message: bbb21618-ad66-4bc0-985d-8db527cfe0d9
+2025-06-05 13:35:11,567 - kairix.ui.functions - INFO - 
+Message: eca6fc66-e872-4ebc-8de0-dfaf7a061f28
+2025-06-05 13:35:11,573 - kairix.ui.functions - INFO - 
+Message: bbb21ebd-0a44-468a-aa12-57d01362913d
+2025-06-05 13:35:11,579 - kairix.ui.functions - INFO - 
+Message: 0e38d5f7-558c-4970-b81c-86a9efd79c1d
+2025-06-05 13:35:11,585 - kairix.ui.functions - INFO - 
+Message: 0bde3102-b8cd-44fd-88ce-f4c6e3393514
+2025-06-05 13:35:11,586 - kairix.ui.functions - INFO - 
+Message: 48105904-ee95-4951-b99a-717f8f58280d
+2025-06-05 13:35:11,586 - kairix.ui.functions - INFO - 
+Message: 8ddfc4a8-ccb2-40a7-8973-fa983952cb99
+2025-06-05 13:35:11,586 - kairix.ui.functions - INFO - 
+Message: 715e5570-7586-4bc9-a618-d7cbabcff201
+2025-06-05 13:35:11,591 - kairix.ui.functions - INFO - 
+Message: e12de2ad-51a1-4778-bb26-9a000be5f0e3
+2025-06-05 13:35:11,596 - kairix.ui.functions - INFO - 
+Message: a2ea96c4-a0e5-4466-be74-4ee667806c77
+2025-06-05 13:35:11,601 - kairix.ui.functions - INFO - 
+Message: dc9d8254-a754-4aa2-b084-efacbff10abb
+2025-06-05 13:35:11,607 - kairix.ui.functions - INFO - 
+Message: 5d83b2ea-878b-41f2-b8f5-3b6cefc96652
+2025-06-05 13:35:11,614 - kairix.ui.functions - INFO - 
+Message: c5821729-5c71-47b5-b83a-933e2db7d53f
+2025-06-05 13:35:11,620 - kairix.ui.functions - INFO - 
+Message: 3ee2f5f7-b03a-47c5-82e2-9c0804b6fea5
+2025-06-05 13:35:11,626 - kairix.ui.functions - INFO - 
+Message: 2741be94-b4c8-4ca4-ba70-a6b2eba9ba41
+2025-06-05 13:35:11,631 - kairix.ui.functions - INFO - 
+Message: c6a7bfc0-ad73-4ea1-b855-6e8c439b5066
+2025-06-05 13:35:11,632 - kairix.ui.functions - INFO - 
+Message: 9745d122-679a-4020-9ce9-f37dc0fc6f31
+2025-06-05 13:35:11,632 - kairix.ui.functions - INFO - 
+Message: 235d2bd4-5c2a-4e05-9f9c-5de5497effd7
+2025-06-05 13:35:11,638 - kairix.ui.functions - INFO - 
+Message: 1ad4dd9b-e85b-4e4b-bbbf-34c04f71a462
+2025-06-05 13:35:11,638 - kairix.ui.functions - INFO - 
+Message: b0cf841a-b9b0-4a3d-94ed-9b8dc3adfe19
+2025-06-05 13:35:11,644 - kairix.ui.functions - INFO - 
+Message: b44b3737-142c-4faf-9bbb-6d93bd10bccd
+2025-06-05 13:35:11,650 - kairix.ui.functions - INFO - 
+Message: 3f2ba0f5-d968-49ec-b411-983498231dff
+2025-06-05 13:35:11,650 - kairix.ui.functions - INFO - 
+Message: ce1b61d1-36ad-451d-9533-1b1318f3e947
+2025-06-05 13:35:11,650 - kairix.ui.functions - INFO - 
+Message: 02c73d55-0591-4c9f-ade0-033745c4d133
+2025-06-05 13:35:11,656 - kairix.ui.functions - INFO - 
+Message: 0b7fcdc7-c15c-4728-a4c7-395c4ba1581a
+2025-06-05 13:35:11,657 - kairix.ui.functions - INFO - 
+Message: 6e6e9148-aac2-426b-9da0-c5061b983e2f
+2025-06-05 13:35:11,663 - kairix.ui.functions - INFO - 
+Message: 3ada03df-f9a6-4d2f-8352-1ef7627a4beb
+2025-06-05 13:35:11,669 - kairix.ui.functions - INFO - 
+Message: 769d7073-d402-40c3-975f-ffc3ac29907e
+2025-06-05 13:35:11,669 - kairix.ui.functions - INFO - 
+Message: ef8c248b-4570-405d-8ee3-2ed1cdad8609
+2025-06-05 13:35:11,669 - kairix.ui.functions - INFO - 
+Message: 1cf73f49-cd7e-4885-884f-f33138a88346
+2025-06-05 13:35:11,675 - kairix.ui.functions - INFO - 
+Message: 1e44d1c9-b9ac-4195-a0e1-10054075e211
+2025-06-05 13:35:11,683 - kairix.ui.functions - INFO - 
+Message: aadf6581-af96-42a8-8935-e0558ef2aab9
+2025-06-05 13:35:11,691 - kairix.ui.functions - INFO - 
+Message: 2d622cc3-a10e-4bf9-96f9-5e7d69d54302
+2025-06-05 13:35:11,691 - kairix.ui.functions - INFO - 
+Message: 332167ee-3d7b-4d4c-a4f0-cf9f741dbbb9
+2025-06-05 13:35:11,691 - kairix.ui.functions - INFO - 
+Message: 612bc938-6ba8-472e-ba8c-ba052cda92ce
+2025-06-05 13:35:11,699 - kairix.ui.functions - INFO - 
+Message: b891481b-a607-4c26-a115-956930264e3d
+2025-06-05 13:35:11,707 - kairix.ui.functions - INFO - 
+Message: b42daf14-f73b-43e5-96c6-7c1a258c2fa7
+2025-06-05 13:35:11,715 - kairix.ui.functions - INFO - 
+Message: 805dc041-a73f-469c-84cd-c76cc346fd07
+2025-06-05 13:35:11,715 - kairix.ui.functions - INFO - 
+Message: 4e1b1b1b-3adb-46ee-a215-717b0f00fb6f
+2025-06-05 13:35:11,715 - kairix.ui.functions - INFO - 
+Message: d3c02eca-0ead-427d-941f-772cd73a9b4d
+2025-06-05 13:35:11,723 - kairix.ui.functions - INFO - 
+Message: cfc0ff33-5460-4b46-9425-a14a1b500f81
+2025-06-05 13:35:11,733 - kairix.ui.functions - INFO - 
+Message: e0083165-2717-4295-9ca0-ca4af6ee1720
+2025-06-05 13:35:11,741 - kairix.ui.functions - INFO - 
+Message: f75bdcac-34e1-41db-90b5-b1f8e35f5112
+2025-06-05 13:35:11,749 - kairix.ui.functions - INFO - 
+Message: ac09081d-d1cd-4853-9a2b-c8454bb34058
+2025-06-05 13:35:11,759 - kairix.ui.functions - INFO - 
+Message: f9537db0-5179-4f1b-aa5f-a1c3ef99e2a0
+2025-06-05 13:35:11,767 - kairix.ui.functions - INFO - 
+Message: 562bc900-a791-4946-9df1-2a86f6d4a74b
+2025-06-05 13:35:11,775 - kairix.ui.functions - INFO - 
+Message: d3aa8dad-2a2f-442d-9745-de5e4b245821
+2025-06-05 13:35:11,775 - kairix.ui.functions - INFO - 
+Message: ade02162-54fb-4908-810c-c18b61595eaa
+2025-06-05 13:35:11,775 - kairix.ui.functions - INFO - 
+Message: 217ca84d-5403-4c55-b8b1-aa22b819111a
+2025-06-05 13:35:11,783 - kairix.ui.functions - INFO - 
+Message: 29a40a78-28a7-4e9f-9bb1-cd58dae7b256
+2025-06-05 13:35:11,791 - kairix.ui.functions - INFO - 
+Message: bf83a822-23eb-4863-84b3-4c02535e8d4b
+2025-06-05 13:35:11,800 - kairix.ui.functions - INFO - 
+Message: b634f6ae-29c8-4b3e-9b5d-6d70cab19e15
+2025-06-05 13:35:11,800 - kairix.ui.functions - INFO - 
+Message: a9dbd9ba-9bc3-4734-9b49-8fea88898991
+2025-06-05 13:35:11,800 - kairix.ui.functions - INFO - 
+Message: b9be711d-4acd-4735-ad6f-fcac53728a69
+2025-06-05 13:35:11,808 - kairix.ui.functions - INFO - 
+Message: 375f230e-ff05-422f-8f07-72e005e537bc
+2025-06-05 13:35:11,816 - kairix.ui.functions - INFO - 
+Message: c394011e-0b70-4b31-8b56-8e06b90d49ce
+2025-06-05 13:35:11,825 - kairix.ui.functions - INFO - 
+Message: 17bffc0a-3a08-4dbf-bc97-58cde68f28ea
+2025-06-05 13:35:11,834 - kairix.ui.functions - INFO - 
+Message: c371631e-9c35-4b49-9c78-6aa823447ea8
+2025-06-05 13:35:11,842 - kairix.ui.functions - INFO - 
+Message: 2a9179b6-f4b9-4b45-85a6-38826133b7cb
+2025-06-05 13:35:11,850 - kairix.ui.functions - INFO - 
+Message: 9d6fbe9a-1c58-467d-8792-32e9668ce223
+2025-06-05 13:35:11,859 - kairix.ui.functions - INFO - 
+Message: 34af57bf-d3ce-481c-b63f-cfeb154047d4
+2025-06-05 13:35:11,868 - kairix.ui.functions - INFO - 
+Message: d0247307-f5f6-45b3-9d28-de953a6e0ace
+2025-06-05 13:35:11,877 - kairix.ui.functions - INFO - 
+Message: 2e5b56cf-f991-40a6-b64b-fc090f62262c
+2025-06-05 13:35:11,885 - kairix.ui.functions - INFO - 
+Message: c94814e1-f6e0-4c72-9b50-38a56150fac0
+2025-06-05 13:35:11,895 - kairix.ui.functions - INFO - 
+Message: a916a9ad-6900-48fb-a04e-dec63ad81a4d
+2025-06-05 13:35:11,903 - kairix.ui.functions - INFO - 
+Message: 0b071a9f-26a8-4096-a174-78507a789552
+2025-06-05 13:35:11,913 - kairix.ui.functions - INFO - 
+Message: dc7a5b0f-4ead-4f4d-89de-b7c7bc5fcc1d
+2025-06-05 13:35:11,922 - kairix.ui.functions - INFO - 
+Message: f0968a06-7236-4bdb-ab28-6fbc03a65d8f
+2025-06-05 13:35:11,929 - kairix.ui.functions - INFO - 
+Message: 43a7cf39-fe15-4e1e-9c81-f3e5693e4caa
+2025-06-05 13:44:17,976 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-05 13:44:17,980 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-06-05 13:44:18,759 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-05 13:44:26,293 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:44:26,293 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:44:26,293 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:44:26,340 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:44:26,340 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:48:58,738 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-05 13:48:58,742 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-06-05 13:48:59,333 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-05 13:49:10,379 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:50:37,231 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-05 13:50:37,236 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-06-05 13:50:37,777 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-05 13:50:40,818 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:50:40,819 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:50:40,819 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:50:40,837 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:50:40,837 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:50:44,080 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:50:44,080 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:50:44,080 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:50:44,094 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:50:44,094 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:50:44,791 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:50:44,791 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:50:44,791 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:50:44,804 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:50:44,804 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:50:45,462 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:50:45,462 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:50:45,462 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:50:45,473 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:50:45,473 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:50:46,069 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:50:46,069 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:50:46,070 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:50:46,082 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:50:46,082 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:50:46,728 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:50:46,728 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:50:46,728 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:50:46,743 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:50:46,743 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:50:47,334 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:50:47,334 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:50:47,334 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:50:47,346 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:50:47,346 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:53:10,053 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-05 13:53:10,059 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-06-05 13:53:10,596 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-05 13:53:48,144 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-05 13:53:48,149 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-06-05 13:53:48,344 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-05 13:53:53,519 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:53:53,520 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:53:53,520 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:53:53,521 - kairix.ui.functions - INFO - Writing graph db record for Power Draw and Costs, # of messages: 172
+2025-06-05 13:53:53,540 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:53:53,540 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:53:53,541 - kairix.ui.functions - INFO - Writing graph db record for Todo list reminder setup, # of messages: 113
+2025-06-05 13:54:01,807 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:54:01,807 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:54:01,808 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:54:01,809 - kairix.ui.functions - INFO - Writing graph db record for Power Draw and Costs, # of messages: 172
+2025-06-05 13:54:01,829 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:54:01,829 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:54:01,830 - kairix.ui.functions - INFO - Writing graph db record for Todo list reminder setup, # of messages: 113
+2025-06-05 13:54:02,470 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:54:02,471 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:54:02,471 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:54:02,472 - kairix.ui.functions - INFO - Writing graph db record for Power Draw and Costs, # of messages: 172
+2025-06-05 13:54:02,482 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:54:02,482 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:54:02,483 - kairix.ui.functions - INFO - Writing graph db record for Todo list reminder setup, # of messages: 113
+2025-06-05 13:54:03,281 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:54:03,282 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:54:03,283 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:54:03,284 - kairix.ui.functions - INFO - Writing graph db record for Power Draw and Costs, # of messages: 172
+2025-06-05 13:54:03,295 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:54:03,296 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:54:03,296 - kairix.ui.functions - INFO - Writing graph db record for Todo list reminder setup, # of messages: 113
+2025-06-05 13:54:03,899 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:54:03,900 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:54:03,901 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:54:03,902 - kairix.ui.functions - INFO - Writing graph db record for Power Draw and Costs, # of messages: 172
+2025-06-05 13:54:03,919 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:54:03,919 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:54:03,920 - kairix.ui.functions - INFO - Writing graph db record for Todo list reminder setup, # of messages: 113
+2025-06-05 13:54:04,665 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:54:04,666 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:54:04,667 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:54:04,668 - kairix.ui.functions - INFO - Writing graph db record for Power Draw and Costs, # of messages: 172
+2025-06-05 13:54:04,684 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:54:04,685 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:54:04,685 - kairix.ui.functions - INFO - Writing graph db record for Todo list reminder setup, # of messages: 113
+2025-06-05 13:55:23,623 - httpx - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-06-05 13:55:23,627 - httpx - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-06-05 13:55:23,868 - httpx - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-06-05 13:55:30,667 - kairix.ui.functions - INFO - Loaded 2 conversations.
+2025-06-05 13:55:30,668 - kairix.ui.functions - INFO - Processing conversation: Power Draw and Costs
+2025-06-05 13:55:30,669 - kairix.ui.functions - INFO - # of mappings: 216
+2025-06-05 13:55:30,671 - kairix.ui.functions - INFO - Writing graph db record for Power Draw and Costs, # of messages: 172
+2025-06-05 13:55:30,691 - kairix.ui.functions - INFO - finished! Wrote Source Docuemnts:Power Draw and Costs
+2025-06-05 13:55:30,692 - kairix.ui.functions - INFO - Processing conversation: Todo list reminder setup
+2025-06-05 13:55:30,692 - kairix.ui.functions - INFO - # of mappings: 164
+2025-06-05 13:55:30,693 - kairix.ui.functions - INFO - Writing graph db record for Todo list reminder setup, # of messages: 113
+2025-06-05 13:55:30,703 - kairix.ui.functions - INFO - finished! Wrote Source Docuemnts:Power Draw and Costs
+Todo list reminder setup
